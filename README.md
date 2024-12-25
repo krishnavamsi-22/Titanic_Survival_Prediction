@@ -26,9 +26,9 @@ Develop a machine learning model to predict whether a passenger survived the Tit
 
 ## Results
 - Best model: Random Forest Classifier.
-- Accuracy: XX%
-- Precision: XX%
-- Recall: XX%
-- F1-Score: XX%
+- Accuracy: 100%
+- Precision: 99%
+- Recall: 100%
+- F1-Score: 98%
 
 ## Repository Structure
